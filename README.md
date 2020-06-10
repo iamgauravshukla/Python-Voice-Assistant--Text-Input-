@@ -22,6 +22,6 @@ pip install lxml
 ```
 
 You are all set now clone this repository and don't forget to add in star for future changes.
-https://github.com/iamgauravshukla/Voice-Assistant-Text-Input-In-Python
+https://github.com/iamgauravshukla/Python-Voice-Assistant--Text-Input-
 
 
