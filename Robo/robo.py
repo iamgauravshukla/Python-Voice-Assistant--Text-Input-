@@ -1,5 +1,5 @@
 import wolframalpha
-client = wolframalpha.Client("3647V2-7GHV2X2VL4")
+client = wolframalpha.Client("Enter Your own Wolfram API")
 import wikipedia
 import PySimpleGUI as sg
 
